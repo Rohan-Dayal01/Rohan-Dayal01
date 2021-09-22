@@ -7,10 +7,12 @@ Using this categorization, along with other features, my team of interns and I t
 - 🌱 I’m currently learning about the basics of financial engineering through a Coursera course.
 - 💞️ Broadly, I'm looking to collaborate on any interesting projects that have direct societal impact. My skills are in data science, machine learning, backend development, API integration and database integration (anything other than frontend :) ), so feel free to reach out to me with any ideas or proposals! My specific skills are listed at the bottom of this file.
 - 📫 How to reach me: You can email me at rohan.dayal@columbia.edu
-- Skills:
+
+- My Programming Arsenal:
 - Python, R: Years of experience with Machine Learning modeling and Data Science tools Scikit-Learn, TensorFlow, Keras, pandas, and NumPy. Extensive experience with Natural Language Processing specific libraries of NLTK, Gensim, and spaCy. Experience with Flask for building web-applications. Kaggle Certified: Intro to Deep Learning ; Intro to ML 
 - Java, C: Software development, data structures, algorithms, linear algebra simulations, network programming.
-- SQL, Gremlin: Integrating PostgreSQL with web apps. Building databases and query algos. for graph DBs with Gremlin 
+- HTML, CSS, JavaScript: Experience using HTML, CSS, and JavaScript for building frontends of websites and web-applications.
+- SQL, Gremlin: Integrating PostgreSQL with web apps. Building databases and query algos. for graph DBs with Gremlin.
 - Linux/Unix: Bash/zsh terminal, shell scripting, process automation, and Git. Experience working with AWS, GCP.
 
 <!---
