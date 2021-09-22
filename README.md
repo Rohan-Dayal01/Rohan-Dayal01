@@ -1,8 +1,17 @@
-- 👋 Hi, I’m @Rohan-Dayal01
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @Rohan-Dayal01. Please read this to get a sense of what I'm interested in and what work I am most proud of!
+- 👀 I’m interested in data science and machine learning projects that directly impact societal issues. 
+- During the Summer of 2021, I worked as a Machine Learning Software Engineer Intern at NASA. There, I built natural language processing text classifiers to generate features which could be used to categorize research papers using Earth Science datasets (Link to the code in public repo: https://git.earthdata.nasa.gov/projects/GDRMS/repos/ges-disc-reference-management-system/browse/paper_classification?at=summer2021). I used the TF-IDF vectorization technique on the text abstracts, and then trained Multinomial Naïve Bayes and Random Forest algorithms. After training the models to serve as binary classifiers, I then created a pipeline which integrated my machine learning classifiers with the online publication management system. The pipeline, which is described in more detail in the repo, allows for one to pull new data through the API, classify it using the Multinomial Naïve Bayes algorithm, and then push the classification back to the citation management system.
+Using this categorization, along with other features, my team of interns and I then created a graph database to link different research papers using Earth Science data, different datasets relating to those research papers, and other features. The goal of this was to make it easier for Earth Science researchers to find the data they need in order to tackle the critical climate research they are working on. We then created a web-application from which users could query the graph database. Here, we implemented hash query matching, and I developed a result ranking algorithm which took into account a result's popularity (number of times it was
+returned) as well as the degree of the result node. The web-application can be found in this public repository: https://git.earthdata.nasa.gov/projects/GDRMS/repos/ges-disc-reference-management-system/browse/searchWebApp/flaskr?at=summer2021.
+- Other than the work I did at NASA, I have also worked on other socially impactful data science projects, such as the NLP Research I worked on last year to understand the impact of COVID-19 on the quality of healthcare for expectant women (https://github.com/Rohan-Dayal01/COVIDNursingNLPAnalysis). 
+- 🌱 I’m currently learning about the basics of financial engineering through a Coursera course. 
+- 💞️ Broadly, I'm looking to collaborate on any interesting projects that have direct societal impact. My skills are in data science, machine learning, backend development, API integration and database integration (anything other than frontend :) ), so feel free to reach out to me with any ideas or proposals! My specific skills are listed at the bottom of this file.
+- 📫 How to reach me: You can email me at rohan.dayal@columbia.edu
+- Skills:
+- Python, R: Years of experience with Machine Learning modeling and Data Science tools Scikit-Learn, TensorFlow, Keras, pandas, and NumPy. Extensive experience with Natural Language Processing specific libraries of NLTK, Gensim, and spaCy. Experience with Flask for building web-applications. Kaggle Certified: Intro to Deep Learning ; Intro to ML 
+- Java, C: Software development, data structures, algorithms, linear algebra simulations, network programming.
+- SQL, Gremlin: Integrating PostgreSQL with web apps. Building databases and query algos. for graph DBs with Gremlin 
+- Linux/Unix: Bash/zsh terminal, shell scripting, process automation, and Git. Experience working with AWS, GCP.
 
 <!---
 Rohan-Dayal01/Rohan-Dayal01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
