@@ -5,10 +5,10 @@ Using this categorization, along with other features, my team of interns and I t
 - Both projects were officially published with the following publication DOIs: [10.6084/m9.figshare.15054192.v1](https://esip.figshare.com/articles/poster/Automated_classification_of_scientific_publications_linked_to_GES_DISC_datasets/15054192/1), [10.6084/m9.figshare.15054267.v1](https://esip.figshare.com/articles/poster/Creating_a_knowledge_graph_to_connect_scientific_publications_and_datasets_for_improving_discovery_of_GES_DISC_s_data_and_services/15054267/1)
 - Other than the work I did at NASA, I have also worked on other socially impactful projects, such as the NLP Research I worked on last year to understand the impact of COVID-19 on the quality of healthcare for expectant women ([Notebook here](https://github.com/Rohan-Dayal01/COVIDNursingNLPAnalysis)). 
 - 🌱 I’m currently learning about the basics of financial engineering through a Coursera course.
-- 💞️ Broadly, I'm looking to collaborate on any interesting projects that have direct societal impact. My skills are in data science, machine learning, backend development, API integration and database integration (anything other than frontend :) ), so feel free to reach out to me with any ideas or proposals! My specific skills are listed at the bottom of this file.
+- 💞️ Broadly, I'm looking to collaborate on any interesting projects that have direct societal impact, so feel free to reach out to me with any ideas or proposals! My specific skills are listed at the bottom of this file.
 - 📫 How to reach me: You can email me at rohan.dayal@columbia.edu
 
-- My Programming Arsenal:
+My Programming Arsenal:
 - Python, R: Years of experience with Machine Learning modeling and Data Science tools Scikit-Learn, TensorFlow, Keras, pandas, and NumPy. Extensive experience with Natural Language Processing specific libraries of NLTK, Gensim, and spaCy. Experience with Flask for building web-applications. Kaggle Certified: Intro to Deep Learning ; Intro to ML 
 - Java, C: Software development, data structures, algorithms, linear algebra simulations, network programming.
 - HTML, CSS, JavaScript: Experience using HTML, CSS, and JavaScript for building frontends of websites and web-applications.
